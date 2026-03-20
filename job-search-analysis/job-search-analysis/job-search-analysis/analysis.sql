@@ -1,7 +1,7 @@
 -- ============================================================
 -- Job Search Platform Analysis
 -- Dataset: job_search_platform_efficacy_100k
--- Author: [Your Name]
+-- Author: Bethsaida Guillaume
 -- ============================================================
 
 
